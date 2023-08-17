@@ -1,4 +1,4 @@
 {
-    "success": "deactivated",
-    "status": "deleted"
+    "success": true,
+    "status": "ok"
 }
